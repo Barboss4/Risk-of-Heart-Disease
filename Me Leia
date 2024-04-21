@@ -1,0 +1,30 @@
+# Risk of Heart Disease
+
+Este projeto visa analisar o risco de doenças cardíacas com base em dados clínicos e de saúde do paciente. Utilizando um conjunto de dados contendo diversas variáveis relacionadas à saúde, como idade, sexo, colesterol, eletrocardiograma em repouso, entre outras, exploramos diferentes métodos de classificação para prever o risco de doenças cardíacas.
+
+## Análise de Dados e Modelagem
+
+Inicialmente, realizamos uma análise exploratória dos dados para compreender melhor suas características e identificar possíveis padrões. Em seguida, aplicamos diversos métodos de classificação, como Árvores de Decisão, Random Forest, e SVM (Support Vector Machines), a fim de determinar qual modelo apresentava o melhor desempenho na previsão do risco de doenças cardíacas.
+
+Após a análise comparativa dos diferentes modelos, selecionamos o melhor classificador para implementação na interface gráfica.
+
+## Interface Gráfica (GUI)
+
+Desenvolvemos uma Interface Gráfica do Usuário (GUI) utilizando a biblioteca PySimpleGUI, que permite aos usuários inserir seus dados de saúde e receber uma previsão do risco de doenças cardíacas com base no modelo selecionado. A GUI oferece uma experiência intuitiva e amigável para interação com o modelo, tornando mais acessível a utilização e compreensão dos resultados.
+Como Executar o Projeto
+
+Para executar o projeto localmente, siga estas etapas:
+
+    Clone este repositório em sua máquina local.
+    Certifique-se de ter Python instalado em seu ambiente.
+    Instale as dependências do projeto utilizando pip install -r requirements.txt.
+    Execute o arquivo heart_disease.py para iniciar a interface gráfica.
+    Insira os dados de saúde solicitados e receba a previsão do risco de doenças cardíacas.
+
+## Contribuição
+
+Contribuições são bem-vindas! Sinta-se à vontade para abrir um problema para relatar bugs ou sugestões de melhorias. Se desejar contribuir diretamente, você pode fazer um fork deste repositório, fazer as alterações e enviar um pull request.
+
+## Licença
+
+Não tem não.
