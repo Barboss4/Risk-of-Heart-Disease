@@ -2,6 +2,12 @@
 
 The "Risk of Heart Disease" project aims to analyze the risk of heart diseases based on clinical and health data of patients. Using a dataset containing various health-related variables such as age, sex, cholesterol, resting electrocardiogram, among others, we explore different classification methods to predict the risk of heart diseases.
 
+
+First version:
+
+![First version](https://github.com/Barboss4/Risk-of-Heart-Disease/assets/118753474/51bcb8ae-55f3-400e-abce-66d00a73657f)
+
+
 ## Data Analysis and Modeling
 
 We begin with an exploratory data analysis to better understand the data's characteristics and identify potential patterns. Next, we apply various classification methods such as Decision Trees, Random Forest, and Support Vector Machines (SVM) to determine which model performs best in predicting the risk of heart diseases.
